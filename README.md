@@ -24,11 +24,11 @@ See [Contributions](https://github.com/civicdmv/dmv-website/blob/master/contribu
 
 ## Design principles
 
-See the [CivicDMV design principles](https://civicdmv-handbook.readthedocs.io/en/latest/principles/) to guide the work we do.
+See the [CivicDMV design principles](https://civicdmv-handbook.readthedocs.io/en/latest/principles/) that guide the work we do.
 
 ## Product owner
 
-[@lukefretwell](https://github.com/lukefretwell)
+[Luke Fretwell](https://github.com/lukefretwell)
 
 ## License
 
