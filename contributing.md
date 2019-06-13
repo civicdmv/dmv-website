@@ -1,4 +1,4 @@
-# Contributing
+# Contributions
 
 We welcome contributions via [issues](https://github.com/civicdmv/dmv-website/issues) and pull requests. 
 
