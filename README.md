@@ -29,7 +29,3 @@ See the [CivicDMV design principles](https://civicdmv-handbook.readthedocs.io/en
 ## Product owner
 
 [@lukefretwell](https://github.com/lukefretwell)
-
-## Contributors
-
-* [@lukefretwell](https://github.com/lukefretwell)
