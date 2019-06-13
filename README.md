@@ -14,7 +14,7 @@ Demo website: https://civicdmv.org/dmv-website/
 
 ## Contribute
 
-We welcome contributions via [issues](https://github.com/civicdmv/dmv-website/issues) and pull requests. Please read our [code of conduct](https://civicdmv-handbook.readthedocs.io/en/latest/conduct/).
+See [Contributions](https://github.com/civicdmv/dmv-website/blob/master/contributing.md).
 
 ## Tech/frameworks
 
