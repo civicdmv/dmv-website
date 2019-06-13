@@ -18,9 +18,9 @@ We welcome contributions via [issues](https://github.com/civicdmv/dmv-website/is
 
 ## Tech/frameworks
 
-* Bootstrap CDN
-* FontAwesome CDN
-* Public Sans font
+* [Bootstrap CDN](https://www.bootstrapcdn.com/)
+* [FontAwesome CDN](https://www.bootstrapcdn.com/fontawesome/)
+* Font: [Public Sans](https://public-sans.digital.gov/)
 
 ## Design principles
 
