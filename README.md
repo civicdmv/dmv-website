@@ -25,3 +25,11 @@ We welcome contributions via [issues](https://github.com/civicdmv/dmv-website/is
 ## Design principles
 
 See the [CivicDMV design principles](https://civicdmv-handbook.readthedocs.io/en/latest/principles/) to guide the work we do.
+
+## Product owner
+
+[@lukefretwell](https://github.com/lukefretwell)
+
+## Contributors
+
+* [@lukefretwell](https://github.com/lukefretwell)
